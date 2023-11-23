@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\New folder"
+		},
+		{
+			"path": "..\\webbutveckling 1"
+		},
+		{
+			"path": "..\\list webb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webbutveckling 1"
+	}
+}
